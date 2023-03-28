@@ -1,6 +1,6 @@
 
 # 💻 Tech Stack:
-![Skill Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=piyushkrmaurya)
+![Skill Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=piyushkrmaurya&skills=C,C%2B%2B,C%23,Python,Java,Javascript,JSON,Vue,Shell,HTML,CSS)
 
 # 📊 Work Experience:
 ![Work Experience](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=piyushkrmaurya)
