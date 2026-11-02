@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2odl2lnmsxa-t.js"
+3:I[5852,["$2"],"default"]
+4:I[78580,["$2"],"ThemeProvider"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+a:I[47257,["$2"],"ClientPageRoot"]
+b:"/_next/static/chunks/366yol_b5o5q_.js"
+c:I[31713,["$2","$b"],"default"]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+:HL["/_next/static/chunks/1moz1lnt91w-2.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{"Component":"$c","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@d","$@e"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/366yol_b5o5q_.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$8"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1moz1lnt91w-2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2odl2lnmsxa-t.js","async":true}]],["$","html",null,{"lang":"en","className":"dark","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Piyush Kumar Maurya\",\"alternateName\":\"Piyush Maurya\",\"url\":\"https://piyushkrmaurya.com\",\"image\":\"https://piyushkrmaurya.com/piyush.png\",\"jobTitle\":\"Software Engineer 2\",\"worksFor\":{\"@type\":\"Organization\",\"name\":\"New Relic\",\"url\":\"https://newrelic.com\"},\"alumniOf\":{\"@type\":\"CollegeOrUniversity\",\"name\":\"Indian Institute of Technology (IIT) BHU, Varanasi\"},\"sameAs\":[\"https://www.linkedin.com/in/piyushkrmaurya\",\"https://github.com/piyushkrmaurya\",\"https://patents.google.com/patent/US12014217B2/en\"]}"}}]}],["$","body",null,{"className":"W3kO_a_variable _crGSa_variable bg-background text-foreground font-sans antialiased overflow-x-hidden","children":[["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0d0f12"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Piyush Kumar Maurya | Software Engineer 2 — New Relic, ex-Cisco, Adobe, IIT BHU"}],["$","meta","1",{"name":"description","content":"Portfolio of Piyush Kumar Maurya — Software Engineer 2 at New Relic (Hyderabad), ex-Cisco (Bangalore), ex-Adobe Research, and IIT (BHU) Varanasi CS '21 graduate. AI-first full-stack engineer specializing in distributed backend microservices, Kafka event streaming, responsive frontend interfaces, and cloud systems (US Patent US12014217B2)."}],["$","link","2",{"rel":"author","href":"https://piyushkrmaurya.com"}],["$","meta","3",{"name":"author","content":"Piyush Kumar Maurya"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"keywords","content":"Piyush Kumar Maurya,Piyush Maurya,piyushkrmaurya,Software Engineer 2,New Relic,Cisco,Adobe Research,IIT BHU Varanasi,US Patent US12014217B2,Full-Stack Engineer,Backend Engineer,Frontend Engineer,AI-First Engineer,Distributed Systems,Java,Kotlin,Python,Spring Boot,Django,React,Vue.js,Apache Kafka,Kubernetes"}],["$","meta","6",{"name":"creator","content":"Piyush Kumar Maurya"}],["$","meta","7",{"name":"publisher","content":"Piyush Kumar Maurya"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]}],null]}],"$L2d"]}],"p":"$@2e","v":null,"s":"$8"}},"a":"$@2f","u":"$@30","b":"rDaZ7yYbkkrZL9ONXyU4A"}
+31:I[27201,["$2"],"IconMark"]
+d:{}
+e:"$9:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+11:null
+17:["$","link","10",{"rel":"canonical","href":"https://piyushkrmaurya.com"}]
+18:["$","meta","11",{"name":"mobile-web-app-capable","content":"yes"}]
+19:["$","meta","12",{"name":"apple-mobile-web-app-title","content":"Piyush Kumar Maurya"}]
+1a:["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}]
+1b:["$","meta","14",{"property":"og:title","content":"Piyush Kumar Maurya | Software Engineer 2 — Backend, Frontend & AI-First Systems"}]
+1c:["$","meta","15",{"property":"og:description","content":"Software Engineer 2 at New Relic (ex-Cisco, Adobe Research, IIT BHU CS '21). AI-first full-stack engineer building distributed backend microservices, streaming pipelines, and responsive web interfaces. US Patent US12014217B2."}]
+1d:["$","meta","16",{"property":"og:url","content":"https://piyushkrmaurya.com"}]
+1e:["$","meta","17",{"property":"og:site_name","content":"Piyush Kumar Maurya — Portfolio"}]
+1f:["$","meta","18",{"property":"og:locale","content":"en_US"}]
+20:["$","meta","19",{"property":"og:image","content":"https://piyushkrmaurya.com/piyush.png"}]
+21:["$","meta","20",{"property":"og:image:width","content":"512"}]
+22:["$","meta","21",{"property":"og:image:height","content":"512"}]
+23:["$","meta","22",{"property":"og:image:alt","content":"Piyush Kumar Maurya"}]
+24:["$","meta","23",{"property":"og:type","content":"profile"}]
+25:["$","meta","24",{"name":"twitter:card","content":"summary"}]
+26:["$","meta","25",{"name":"twitter:title","content":"Piyush Kumar Maurya | Software Engineer 2 — Backend, Frontend & AI-First Systems"}]
+27:["$","meta","26",{"name":"twitter:description","content":"Software Engineer 2 at New Relic (ex-Cisco, Adobe Research, IIT BHU CS '21). US Patent holder (US12014217B2)."}]
+28:["$","meta","27",{"name":"twitter:image","content":"https://piyushkrmaurya.com/piyush.png"}]
+29:["$","link","28",{"rel":"icon","href":"/icon-192.png","sizes":"192x192","type":"image/png"}]
+2a:["$","link","29",{"rel":"icon","href":"/icon-512.png","sizes":"512x512","type":"image/png"}]
+2b:["$","link","30",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2c:["$","$L31","31",{}]
+2d:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+30:true
+8:C
+2f:0
+7:"$undefined"
+2e:"$undefined"
+12:"$undefined"
